@@ -1,6 +1,6 @@
 {
   "workingDir": "./temp/deploy/",
-  "account": "<!-- STORAGE ACCOUNT NAME -->",
-  "container": "helloworld",
-  "accessKey": "<!-- ACCESS KEY -->"
+  "account": "jbensonsamplestut",
+  "container": "helloworldwebpart",
+  "accessKey": "xeyVaAmP5ZwcwYd4w4AD1rPxRSfUE7/uouc/pT8H2rixMzwbM/OuiQ0cqkBq3UuSZgKnHSTa5kRUbtWEj8QQSQ=="
 }
